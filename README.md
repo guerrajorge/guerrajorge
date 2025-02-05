@@ -8,8 +8,8 @@ Checkout my work here on Github.
 
 ### 🎯 Featured Project
 
-I'm currently working on a mobile app for [My Dental Path](http://mydentalpath.com/) <a href="http://mydentalpath.com/">
-  <img src="https://github.com/guerrajorge/guerrajorge/blob/main/logo_1_1320.png" alt="my-dental-path" width="50">
+I'm currently working on a mobile app for [My Dental Path](http://mydentalpath.com/)   <a href="http://mydentalpath.com/">
+  <img src="https://github.com/guerrajorge/guerrajorge/blob/main/logo_1_1320.png" alt="my-dental-path" width="30">
 </a>  
 
 
