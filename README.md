@@ -8,9 +8,10 @@ Checkout my work here on Github.
 
 ### 🎯 Featured Project
 
-I'm currently working on a mobile app for My Dental Path. - <a href="http://mydentalpath.com/">
-  <img src="https://github.com/guerrajorge/guerrajorge/blob/main/logo_1_1320.png" alt="my-dental-path" width="150">
-</a>
+I'm currently working on a mobile app for [My Dental Path](http://mydentalpath.com/) <a href="http://mydentalpath.com/">
+  <img src="https://github.com/guerrajorge/guerrajorge/blob/main/logo_1_1320.png" alt="my-dental-path" width="50">
+</a>  
+
 
 
 A service that my wife and I provide to international dentist applying to american dental schools 💪🦷🩺.
