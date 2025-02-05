@@ -1,6 +1,6 @@
 ## Hi, I'm Jorge 👋
 
-I'm passionate about everything data science, machine learning, and automatization related. I am currently learning mobile and web development on my spare time. 
+I'm passionate about everything related to data science, machine learning, and automation. I am currently learning mobile and web development on my spare time. 
 
 Checkout my work here on Github.
 
@@ -11,7 +11,6 @@ Checkout my work here on Github.
 I'm currently working on a mobile app for [My Dental Path](http://mydentalpath.com/)   <a href="http://mydentalpath.com/">
   <img src="https://github.com/guerrajorge/guerrajorge/blob/main/logo_1_1320.png" alt="my-dental-path" width="30">
 </a>  
-
 
 
 A service that my wife and I provide to international dentist applying to american dental schools 💪🦷🩺.
